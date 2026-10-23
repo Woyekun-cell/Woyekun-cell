@@ -23,10 +23,10 @@ Bring plot selection, colors and layout into one workflow for biological and mul
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/BioFigure">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/BioFigure/main/biofigure/examples/portable/heatmap/figures/heatmap.png" alt="BioFigure：模拟数据的方格热图示例" width="420">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/BioFigure/main/docs/assets/archive-gallery/scidraw-001-065/10_circular_heatmap_upset.png" alt="BioFigure：环形热图与 UpSet 组合绘图示例" width="680">
   </a>
   <br>
-  <sub>BioFigure · 模拟数据热图示例 / Heatmap with synthetic data · <a href="https://github.com/Woyekun-cell/BioFigure/blob/main/biofigure/examples/portable/heatmap/provenance.json">来源 / Source</a></sub>
+  <sub>环形热图 × UpSet · 绘图示例 / Circular heatmap × UpSet · <a href="https://github.com/Woyekun-cell/BioFigure/blob/main/biofigure/examples/archive-gallery/scidraw-001-065/scripts/render_cases_10_14.R">绘图代码 / Code</a> · <a href="https://mp.weixin.qq.com/s/LuFxqYKavB5VvL3K_fDGVA">结构参考 / Reference</a></sub>
 </p>
 
 ### 📖 [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
@@ -37,10 +37,10 @@ Read papers with fewer window switches: look up words, ask about a passage, read
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/Ask-for-GPT">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/Ask-for-GPT/main/docs/images/translation.png" alt="Ask for GPT：evidence 词典卡的界面演示" width="620">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/Ask-for-GPT/main/docs/images/zotero/04-annotations.png" alt="Ask for GPT：Zotero 双语阅读与对应段落标注的原生界面演示" width="760">
   </a>
   <br>
-  <sub>Ask for GPT · 自有演示状态的查词界面 / Dictionary UI preview with demo content · <a href="https://github.com/Woyekun-cell/Ask-for-GPT/blob/main/docs/GALLERY.md">来源 / Source</a></sub>
+  <sub>Zotero 双语阅读与标注 · 原生界面演示 / Bilingual reading & annotations · Native UI demo · <a href="https://github.com/Woyekun-cell/Ask-for-GPT/blob/main/docs/GALLERY.md">来源 / Source</a></sub>
 </p>
 
 ### 🧪 [qPCR Helper](https://github.com/Woyekun-cell/qpcr-helper)
@@ -51,10 +51,10 @@ Spend less time wrangling spreadsheets after qPCR. Go from Ct/Cq values to expre
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/qpcr-helper">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/qpcr-helper/main/.audit-ui/10-module-figure.png" alt="qPCR Helper：内置演示数据的图形预览与设置面板" width="620">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/qpcr-helper/main/.audit-ui/10-module-figure.png" alt="qPCR Helper：表达量绘图与设置面板" width="620">
   </a>
   <br>
-  <sub>qPCR Helper · 内置演示数据的图形预览 / Figure preview with demo data · <a href="https://github.com/Woyekun-cell/qpcr-helper/blob/main/docs/module-guide.md">来源 / Source</a></sub>
+  <sub>qPCR Helper · 表达量绘图 / Expression analysis and plotting · <a href="https://github.com/Woyekun-cell/qpcr-helper/blob/main/docs/module-guide.md">来源 / Source</a></sub>
 </p>
 
 这些项目都还在持续更新和完善，我也在自己的科研工作中不断使用和调整。
