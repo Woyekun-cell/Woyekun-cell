@@ -15,11 +15,11 @@ I work on bioinformatics and multi-omics, and build practical tools for the smal
 
 ## 正在做的项目 · Projects
 
-### [BioFigure](https://github.com/Woyekun-cell/BioFigure)
+### 🎨 [BioFigure](https://github.com/Woyekun-cell/BioFigure)
 
-参考引导的生物科研绘图与质控 Skill，以 R 为主，保留可复现代码与数据。
+让科研绘图更顺手，也更好看。围绕生物与多组学数据，把选图、配色、排版和出图串起来，留下能继续修改的 R/Python 代码。
 
-Reference-guided figure design and quality checks for biological research, with an R-first workflow.
+Bring plot selection, colors and layout into one workflow for biological and multi-omics data, with R/Python code you can keep refining.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/BioFigure">
@@ -29,11 +29,11 @@ Reference-guided figure design and quality checks for biological research, with 
   <sub>BioFigure · 模拟数据热图示例 / Heatmap with synthetic data · <a href="https://github.com/Woyekun-cell/BioFigure/blob/main/biofigure/examples/portable/heatmap/provenance.json">来源 / Source</a></sub>
 </p>
 
-### [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
+### 📖 [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
 
-面向文献阅读与学术写作，连接划词查词、上下文提问和 Zotero 双语阅读。
+读论文时少切几个窗口：划词查词、随手提问、网页和 PDF 双语阅读，再把阅读笔记留在 Zotero，把表达打磨放进写作里。
 
-A literature-reading and academic-writing companion for lookup, contextual questions, and bilingual reading in Zotero.
+Read papers with fewer window switches: look up words, ask about a passage, read web pages and PDFs in two languages, keep notes in Zotero, and refine your wording as you write.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/Ask-for-GPT">
@@ -43,11 +43,11 @@ A literature-reading and academic-writing companion for lookup, contextual quest
   <sub>Ask for GPT · 自有演示状态的查词界面 / Dictionary UI preview with demo content · <a href="https://github.com/Woyekun-cell/Ask-for-GPT/blob/main/docs/GALLERY.md">来源 / Source</a></sub>
 </p>
 
-### [qPCR Helper](https://github.com/Woyekun-cell/qpcr-helper)
+### 🧪 [qPCR Helper](https://github.com/Woyekun-cell/qpcr-helper)
 
-从 Ct/Cq 数据到相对表达量、统计分析和科研图形的小工具。
+把做完 qPCR 后的整理工作省下来：从 Ct/Cq 数据到表达量计算、统计分析和绘图，少折腾表格，多花时间看结果。
 
-A practical tool for turning Ct/Cq data into relative expression analysis and scientific figures.
+Spend less time wrangling spreadsheets after qPCR. Go from Ct/Cq values to expression calculations, statistics and figures, with more time to focus on the results.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/qpcr-helper">
