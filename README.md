@@ -31,9 +31,9 @@ Bring plot selection, colors and layout into one workflow for biological and mul
 
 ### 📖 [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
 
-读论文时少切几个窗口：划词查词、随手提问、网页和 PDF 双语阅读，再把阅读笔记留在 Zotero，把表达打磨放进写作里。
+提供 Windows 和 macOS 两个版本。读论文时划词查词、随手提问，在网页和 PDF 中对照阅读，把阅读笔记留在 Zotero；macOS版还提供 Word/WPS 写作辅助。
 
-Read papers with fewer window switches: look up words, ask about a passage, read web pages and PDFs in two languages, keep notes in Zotero, and refine your wording as you write.
+Available in Windows and macOS versions. Look up words, ask about a passage, read web pages and PDFs in two languages, and keep notes in Zotero. The macOS version also provides Word/WPS writing assistance.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/Ask-for-GPT">
