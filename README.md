@@ -17,9 +17,9 @@ I work on bioinformatics and multi-omics, and build practical tools for the smal
 
 ### 🎨 [BioFigure](https://github.com/Woyekun-cell/BioFigure)
 
-让科研绘图更顺手，也更好看。围绕生物与多组学数据，把选图、配色、排版和出图串起来，留下能继续修改的 R/Python 代码。
+面向编码助手的生物科研绘图 Skill，串起选图、配色、排版、出图和成图检查，保留可修改的 R/Python 代码与绘图数据。
 
-Bring plot selection, colors and layout into one workflow for biological and multi-omics data, with R/Python code you can keep refining.
+A scientific visualization skill for coding assistants, covering chart selection, color, layout, rendering and figure checks, with editable R/Python code and plotting data.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/BioFigure">
@@ -31,9 +31,9 @@ Bring plot selection, colors and layout into one workflow for biological and mul
 
 ### 📖 [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
 
-提供 Windows 和 macOS 两个版本。读论文时划词查词、随手提问，在网页和 PDF 中对照阅读，把阅读笔记留在 Zotero；macOS版还提供 Word/WPS 写作辅助。
+读论文时划词查词、围绕选段提问，在网页和 PDF 中对照阅读，并在 Zotero 中保存标注与笔记。提供 macOS 和 Windows 版本；macOS 版还支持 Word/WPS 写作辅助。
 
-Available in Windows and macOS versions. Look up words, ask about a passage, read web pages and PDFs in two languages, and keep notes in Zotero. The macOS version also provides Word/WPS writing assistance.
+Look up words, ask questions about selected text, read web pages and PDFs bilingually, and keep annotations and notes in Zotero. Available for macOS and Windows, with Word/WPS writing assistance on macOS.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/Ask-for-GPT">
@@ -45,9 +45,9 @@ Available in Windows and macOS versions. Look up words, ask about a passage, rea
 
 ### 🧪 [qPCR Helper](https://github.com/Woyekun-cell/qpcr-helper)
 
-把做完 qPCR 后的整理工作省下来：从 Ct/Cq 数据到表达量计算、统计分析和绘图，少折腾表格，多花时间看结果。
+从逐孔 Ct/Cq 数据出发，完成 2⁻ΔΔCt 表达量计算、统计分析和绘图；支持配对、时间序列及多基因热图，并导出图稿。
 
-Spend less time wrangling spreadsheets after qPCR. Go from Ct/Cq values to expression calculations, statistics and figures, with more time to focus on the results.
+Turn well-level Ct/Cq values into 2⁻ΔΔCt expression estimates, statistical results and figures, including paired plots, time courses and multi-gene heatmaps.
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/qpcr-helper">
