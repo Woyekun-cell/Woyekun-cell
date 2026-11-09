@@ -23,10 +23,10 @@ A scientific visualization skill for coding assistants, covering chart selection
 
 <p align="center">
   <a href="https://github.com/Woyekun-cell/BioFigure">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/BioFigure/main/docs/assets/archive-gallery/scidraw-001-065/10_circular_heatmap_upset.png" alt="BioFigure：环形热图与 UpSet 组合绘图示例" width="680">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/BioFigure/main/gallery/assets/cfee44dad91e33156eb1.webp" alt="BioFigure：多轨共线性与局部放大" width="680">
   </a>
   <br>
-  <sub>环形热图 × UpSet · 绘图示例 / Circular heatmap × UpSet · <a href="https://github.com/Woyekun-cell/BioFigure/blob/main/biofigure/examples/archive-gallery/scidraw-001-065/scripts/render_cases_10_14.R">绘图代码 / Code</a> · <a href="https://mp.weixin.qq.com/s/LuFxqYKavB5VvL3K_fDGVA">结构参考 / Reference</a></sub>
+  <sub>多轨共线性与局部放大 / Multitrack synteny with a detailed view · <a href="https://github.com/Woyekun-cell/BioFigure/blob/main/docs/GALLERY.md">精选图廊 / Gallery</a></sub>
 </p>
 
 ### 📖 [Ask for GPT](https://github.com/Woyekun-cell/Ask-for-GPT)
@@ -36,11 +36,11 @@ A scientific visualization skill for coding assistants, covering chart selection
 Look up words, ask questions about selected text, read web pages and PDFs bilingually, and keep annotations and notes in Zotero. Available for macOS and Windows, with Word/WPS writing assistance on macOS.
 
 <p align="center">
-  <a href="https://github.com/Woyekun-cell/Ask-for-GPT">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/Ask-for-GPT/main/docs/images/zotero/04-annotations.png" alt="Ask for GPT：Zotero 双语阅读与对应段落标注的原生界面演示" width="760">
+  <a href="https://github.com/Woyekun-cell/Ask-for-GPT/releases/download/v1.1.55/Ask-for-GPT-feature-overview-en.mp4">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/Ask-for-GPT/main/docs/images/feature-overview-cover.png" alt="Ask for GPT 功能介绍视频封面" width="760">
   </a>
   <br>
-  <sub>Zotero 双语阅读与标注 · 原生界面演示 / Bilingual reading & annotations · Native UI demo · <a href="https://github.com/Woyekun-cell/Ask-for-GPT/blob/main/docs/GALLERY.md">来源 / Source</a></sub>
+  <sub>▶ 观看功能介绍（英文旁白）/ Watch the feature overview (English narration) · <a href="https://github.com/Woyekun-cell/Ask-for-GPT/blob/main/docs/GALLERY.md">界面图廊 / Gallery</a></sub>
 </p>
 
 ### 🧪 [qPCR Helper](https://github.com/Woyekun-cell/qpcr-helper)
@@ -49,12 +49,14 @@ Look up words, ask questions about selected text, read web pages and PDFs biling
 
 Turn well-level Ct/Cq values into 2⁻ΔΔCt expression estimates, statistical results and figures, including paired plots, time courses and multi-gene heatmaps.
 
+[在线使用 / Open the web app](https://qpcr-helper-web-production.up.railway.app)
+
 <p align="center">
   <a href="https://github.com/Woyekun-cell/qpcr-helper">
-    <img src="https://raw.githubusercontent.com/Woyekun-cell/qpcr-helper/main/.audit-ui/10-module-figure.png" alt="qPCR Helper：表达量绘图与设置面板" width="620">
+    <img src="https://raw.githubusercontent.com/Woyekun-cell/qpcr-helper/main/.audit-ui/09-module-results-crop.png" alt="qPCR Helper：表达量与统计结果" width="620">
   </a>
   <br>
-  <sub>qPCR Helper · 表达量绘图 / Expression analysis and plotting · <a href="https://github.com/Woyekun-cell/qpcr-helper/blob/main/docs/module-guide.md">来源 / Source</a></sub>
+  <sub>qPCR Helper · 表达量与统计结果 / Expression and statistical results · <a href="https://github.com/Woyekun-cell/qpcr-helper/blob/main/docs/module-guide.md">模块说明 / Module guide</a></sub>
 </p>
 
 这些项目都还在持续更新和完善，我也在自己的科研工作中不断使用和调整。
